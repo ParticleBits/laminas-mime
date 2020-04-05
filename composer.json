@@ -37,7 +37,7 @@
     },
     "require-dev": {
         "laminas/laminas-coding-standard": "~1.0.0",
-        "laminas/laminas-mail": "^2.6",
+        "laminas/laminas-mail": "@dev",
         "phpunit/phpunit": "^5.7.27 || ^6.5.14 || ^7.5.20"
     },
     "suggest": {
