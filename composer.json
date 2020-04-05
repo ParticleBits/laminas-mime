@@ -24,6 +24,12 @@
             "dev-develop": "2.8.x-dev"
         }
     },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/particlebits/laminas-mail"
+        }
+    ],
     "require": {
         "php": "^5.6 || ^7.0",
         "laminas/laminas-stdlib": "^2.7 || ^3.0",
